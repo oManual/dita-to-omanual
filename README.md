@@ -11,8 +11,9 @@ Version
 Installing
 ----------
 1. Unzip this zip file within the plugins folder of your installed DITA Open Toolkit.
-2. Open a command window for DITA Open Toolkit operations (for example, in Windows, double-click on startcmd.bat in the root folder).
-3. Integrate the plugin by typing this command and hitting Enter:
+2. Rename the containing folder as necessary to org.omanual.dita2omanual (a GitHub distribution quirk).
+3. Open a command window for DITA Open Toolkit operations (for example, in Windows, double-click on startcmd.bat in the root folder).
+4. Integrate the plugin by typing this command and hitting Enter:
 ```
 sh C:\DITA-OT\ant -f integrator.xml
 ```
@@ -52,5 +53,5 @@ ASL 2.0
 Author
 ------
 
-Don Day (donrday@contelligencegroup.com)
+Don Day (donday@donrday.com)
 
