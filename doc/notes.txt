@@ -77,7 +77,7 @@ java -cp lib/saxon9he.jar;lib/resolver.jar net.sf.saxon.Query
 C:\DITA-OT1.8.M2>java -jar lib\saxon\saxon9.jar
 No source file name
 Saxon 9.1.0.5J from Saxonica
-Usage: see http://www.saxonica.com/documentation/using-xsl/commandline.html
+Usage: see http://www.saxonica.com/documentation/#!using-xsl/commandline
 Options:
   -a                    Use xml-stylesheet PI, not style-doc argument
   -c:filename           Use compiled stylesheet from file
